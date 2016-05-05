@@ -1,4 +1,6 @@
 source 'https://rubygems.org'
+gem 'omniauth'
+gem 'omniauth-facebook'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
@@ -53,4 +55,3 @@ group :test do
   gem 'launchy'
   gem 'selenium-webdriver'
 end
-
